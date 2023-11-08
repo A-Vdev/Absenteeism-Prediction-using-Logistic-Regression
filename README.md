@@ -53,14 +53,17 @@ Reason for Absence:
 
 ## Conclusion
 
-![Age%20vs%20Probability.png](attachment:Age%20vs%20Probability.png)
+![image](https://github.com/A-Vdev/Absenteeism-Prediction-using-Logistic-Regression/assets/98685635/369774d2-8c12-42e2-940f-bea03694df85)
+
 - The majority of individuals in our dataset are aged 40 or younger, yet it's noteworthy that those who are older tend to exhibit a notably higher probability of being absent.
 
 
-![Reason%20vs%20Probability.png](attachment:Reason%20vs%20Probability.png)
+![image](https://github.com/A-Vdev/Absenteeism-Prediction-using-Logistic-Regression/assets/98685635/4bd45f0f-0023-434d-a428-794a266252a6)
+
 - Individuals in the first group (serious reasons) have a higher than 50% chance of being excessively absent. Conversely, those in the fourth group (light reasons) are less likely to be excessively absent. For the second and third groups, we don't have enough data to draw meaningful conclusions. In the second group, no observations were away from work due to those reasons, and in the third group, there are very few and evenly spread observations specifying those reasons.
 
-![Transportation%20Expense%20and%20Children.png](attachment:Transportation%20Expense%20and%20Children.png)
+![image](https://github.com/A-Vdev/Absenteeism-Prediction-using-Logistic-Regression/assets/98685635/020e56a3-c1fa-42e9-86b7-0480f237a3b2)
+
 - There is a mild positive correlation between transportation expenses and the likelihood of being absent. Individuals without children typically have a low probability of excessive absence and tend not to spend much on transportation. On the other hand, those with 1 or 2 children generally keep their monthly transportation expenses below $240.
 
 
