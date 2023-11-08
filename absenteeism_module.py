@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 #import Library
 import numpy as np
@@ -165,7 +160,6 @@ class absenteeism_model():
             return self.preprocessed_data
 
 
-# In[ ]:
 
 
 
